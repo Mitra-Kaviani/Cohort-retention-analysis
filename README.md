@@ -5,7 +5,7 @@ This project is a Cohort retention analysis,  that emphasizes the focus on track
 
 ## Cohort Analysis using Pandas, Seaborn and Plotly
 
-This code is designed to perform a Cohort Analysis on a dataset using Pandas, Seaborn and Plotly libraries. The Cohort Analysis allows us to analyze the behavior of groups of users who share common characteristics over time. In this code, we analyze the behavior of users who have made submissions in different months.
+This code is designed to perform a Cohort Analysis on a dataset using Pandas, Seaborn and Plotly libraries. The Cohort Analysis allows to analyze the behavior of groups of users who share common characteristics over time. In this code, the behavior of users who have made submissions in different months is analyzed.
 
 ## Prerequisites
 
